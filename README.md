@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @abelabrahamx
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning react and ux design
-- 💞️ I’m looking to collaborate on any front-end / UI porjects
-- 📫 How to reach me @abelg939 on all socials | linkedin & gmail @abelabrahamx
+- 👋 Hi, I’m Abel
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning back-end web development
+- 💞️ I’m looking to collaborate on react or vue based UI projects
+- 📫 How to reach me @abelg939 on all socials
 
 <!---
 abelabrahamx/abelabrahamx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
