@@ -2,7 +2,7 @@
 
 ### Front end developer
 
-- 🌱 I am currently learning back end development.
+- 🌱 I am currently learning back end development tools.
 - 👨🏽‍💻 I am currently working on some side projects.
 
 ### Languages
